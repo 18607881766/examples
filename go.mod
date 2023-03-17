@@ -36,13 +36,13 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/schollz/closestmatch v2.1.0+incompatible
 	github.com/shirou/gopsutil/v3 v3.22.6
-	github.com/tdewolff/minify/v2 v2.12.0
+	github.com/tdewolff/minify/v2 v2.12.5
 	github.com/vmihailenco/msgpack/v5 v5.3.5
 	github.com/yosssi/ace v0.0.5
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/crypto v0.0.0-20220507011949-2cf3adece122
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
+	golang.org/x/sys v0.0.0-20220908164124-27713097b956
 	golang.org/x/text v0.3.7
 	golang.org/x/time v0.0.0-20220411224347-583f2d630306
 	google.golang.org/protobuf v1.28.0
@@ -61,7 +61,7 @@ require (
 	github.com/dgraph-io/ristretto v0.0.3-0.20200630154024-f66de99634de // indirect
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/dustin/go-humanize v1.0.0 // indirect
+	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
@@ -92,7 +92,7 @@ require (
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/smartystreets/assertions v1.13.0 // indirect
 	github.com/stretchr/testify v1.7.5 // indirect
-	github.com/tdewolff/parse/v2 v2.6.1 // indirect
+	github.com/tdewolff/parse/v2 v2.6.5 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.4.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
